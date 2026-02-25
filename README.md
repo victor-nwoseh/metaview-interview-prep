@@ -92,7 +92,7 @@ This is a working implementation of the Interview Prep Agent described above. Pa
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/[your-username]/metaview-interview-prep.git
+git clone https://github.com/victor-nwoseh/metaview-interview-prep.git
 cd metaview-interview-prep
 ```
 
@@ -183,4 +183,4 @@ The prompt instructs Claude to produce five structured sections in markdown: Rol
 
 ---
 
-[demo-link]: https://[to-be-updated-after-deployment]
+[demo-link]: https://metaview-interview-prep.vercel.app
